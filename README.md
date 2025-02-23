@@ -128,3 +128,6 @@ Dashboard akan tersedia di **http://localhost:8501**
 ---
 
 🚀 _Project ini dibuat untuk mempermudah prediksi harga rumah di Bandung!_
+
+### Sumber dataset : 
+https://www.kaggle.com/datasets/khaleeel347/harga-rumah-seluruh-kecamatan-di-kota-bandung
